@@ -1,5 +1,4 @@
 {
-	"song": {
 		"player1": "bf",
 		"player2": "tankman",
 		"notes": [
@@ -2993,5 +2992,4 @@
 		"format": "psych_v1_convert",
 		"speed": 2.3,
 		"bpm": 160
-	}
 }
