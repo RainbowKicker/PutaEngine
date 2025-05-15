@@ -7,6 +7,8 @@
 			"sectionBeats": 4,
 			"mustHitSection": true,
 			"events": []
+			"bpm": 180,
+			"changeBPM": false,
 		},
 		{
 			"sectionNotes": [],
