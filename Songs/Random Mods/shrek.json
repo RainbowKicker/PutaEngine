@@ -1,5 +1,4 @@
 {
-     "song" : {
          "player1" : "bf"
         ,"player2" : "dad"
         ,"notes" : [
@@ -26251,5 +26250,4 @@
         ,"sections" : 0
         ,"bpm" : 200
         ,"gf" : "gf"
-    }
 }
