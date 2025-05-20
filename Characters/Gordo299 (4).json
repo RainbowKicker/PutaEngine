@@ -1,0 +1,55 @@
+{
+    "properties": {
+        "name": "Gordo299",
+        "description": "Tu engine es una mierda",
+        "author": "Mad!"
+    },
+    "animations": {
+        "idle": [
+            [
+                "-833,-802",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372056187712966767/image.png?ex=682b5126&is=6829ffa6&hm=e5a7946b1b44f48bd328161e4bd04eab043a615304e94134551eec5dd0a5cbe0&=&format=webp&quality=lossless&width=1757&height=846"
+            ]
+        ],
+        "singLEFT": [
+            [
+                "-839,-827",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055640167682101/left0001.png?ex=682b50a4&is=6829ff24&hm=284d4886bbe0539144baddb7501500bcf777b12716f687e3be88aec3dec840f6&=&format=webp&quality=lossless&width=1717&height=846"
+            ],
+            [
+                "-839,-827",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055639882338324/left0002.png?ex=682b50a4&is=6829ff24&hm=377ab0cf44fb9ea4da95a2299782d6d90a4d5d804933ed10117b55aa1ccda722&=&format=webp&quality=lossless&width=1717&height=846"
+            ]
+        ],
+        "singDOWN": [
+            [
+                "-833,-752",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055640746365019/down0001.png?ex=682b50a4&is=6829ff24&hm=e5705768be83cb3879b3f8c4ed17f9f5eafbb9e85dbb75b918ac582ff9abc82d&=&format=webp&quality=lossless&width=1752&height=791"
+            ],
+            [
+                "-833,-752",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055640456822855/down0002.png?ex=682b50a4&is=6829ff24&hm=c0d139799eb10d52143edf1d9d22cc9a1ad5a8629528d077a4dff4329de45a3c&=&format=webp&quality=lossless&width=1752&height=791"
+            ]
+        ],
+        "singUP": [
+            [
+                "-741, -856",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055639592796250/up0001.png?ex=682b50a4&is=6829ff24&hm=f212500c7fd92877b8eb616658f287eeeb94cc956a2265eb405488e5491d92d6&=&format=webp&quality=lossless&width=1572&height=846"
+            ],
+            [
+                "-741, -856",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055639291072624/up0002.png?ex=682b50a3&is=6829ff23&hm=2301a63905e56cc75b95e2dbc295a119d13422e1b834552c96d32b7402584c02&=&format=webp&quality=lossless&width=1572&height=846"
+            ]
+        ],
+        "singRIGHT": [
+            [
+                "-835,-820",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055638997340230/right0001.png?ex=682b50a3&is=6829ff23&hm=f16f26d0cea48ba9a08b1b4038f7e0f34a4afb2b3c6f569eb562359e0998606f&=&format=webp&quality=lossless&width=1722&height=846"
+            ],
+            [
+                "-835,-820",
+                "https://media.discordapp.net/attachments/1371364836692463618/1372055638699409438/right0002.png?ex=682b50a3&is=6829ff23&hm=3b9ccb2ed5464a5ec7aa6bdc3d9798122c45bb8c6e8d60c2165de9b5b09e8a0b&=&format=webp&quality=lossless&width=1722&height=846"
+            ]
+        ]
+    }
+}
